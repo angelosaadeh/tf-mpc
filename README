@@ -1,1 +1,10 @@
+Step 1:
 Go to mpc.protocols and execute the script generate.py to be able to run the simulations. 
+
+Step 2:
+Choose an experiment to run among cosine, cosine variant, 3-estimates and its variant.
+
+Step 3:
+Run the script alice.py from one terminal and bob.py from another.
+
+Each run computes the chosen truth-finding algorithm in plain and with mpc and compares their outputs.
